@@ -1,0 +1,31 @@
+MEKA DIVYADEEP REDDY
+JAVA:
+1. Calculate the length of a string without using the length() method.
+2. Write a program to find the most frequent character in a string.
+3. Count the total number of vowels and consonants in a string.
+
+TYPE-SCRIPT:
+1. Write a TypeScript program to calculate the average of elements in an array.
+2. Write a TypeScript program to check whether a number is even or odd.
+3. Check if a given number is a floating-point or integer in JavaScript.
+
+JAVA-SCRIPT:
+1. Convert an integer to Roman numerals.
+2. Generate a random integer between a minimum and maximum range.
+3. Convert RGB color values to a Hexadecimal string.
+
+MUNNANGI HARSHAVARDHAN REDDY
+JAVA:
+1. Implement Producer-Consumer problem using Multithreading (wait(), notify())
+2. Write a program to reverse a string.
+3. Compute the power of a number a^b without using Math.pow().
+
+TYPE-SCRIPT:
+1. Write a TypeScript program to find the shortest word in a sentence.
+2. Create a TypeScript Student class with properties, a constructor, and methods.
+3. Execute three asynchronous API calls sequentially using async/await.
+
+JAVA-SCRIPT:
+1. Create a JavaScript program demonstrating single inheritence.
+2. Implement binary search on a sorted array.
+3. Find the maximum value in an array using Math.max() and spread operator.

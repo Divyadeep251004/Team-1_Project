@@ -2,6 +2,7 @@ import java.util.Scanner;
 public class MostFreqChar {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
+        System.out.print("Enter The Character:");
         String s = sc.nextLine();
         char result = s.charAt(0);
         int max = 0;
