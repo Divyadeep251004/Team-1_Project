@@ -5,8 +5,9 @@ const rl = readline.createInterface({
     output: process.stdout
 });
 
-rl.question("Enter array elements: ", (input: string) => {
+rl.question("Enter Array Elements: ", (input: string) => {
     const arr: number[] = input.trim().split(/\s+/).map(Number);
+
     let sum = 0;
 
     for (const value of arr) {
@@ -14,6 +15,7 @@ rl.question("Enter array elements: ", (input: string) => {
     }
 
     const average = sum / arr.length;
+
     console.log("Average:", average);
 
     rl.close();

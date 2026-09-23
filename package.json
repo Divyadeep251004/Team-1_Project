@@ -1,0 +1,24 @@
+{
+  "name": "virtusa-work",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Divyadeep251004/Team-1_Project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Divyadeep251004/Team-1_Project/issues"
+  },
+  "homepage": "https://github.com/Divyadeep251004/Team-1_Project#readme",
+  "devDependencies": {
+    "@types/node": "^26.6.2"
+  }
+}

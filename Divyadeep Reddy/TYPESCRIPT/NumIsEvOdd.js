@@ -38,9 +38,9 @@ const rl = readline.createInterface({
     input: process.stdin,
     output: process.stdout
 });
-rl.question("Enter a number: ", (input) => {
-    const n = Number(input);
-    if (n % 2 === 0)
+rl.question("Enter a Number: ", (input) => {
+    const num = Number(input);
+    if (num % 2 === 0)
         console.log("Even");
     else
         console.log("Odd");

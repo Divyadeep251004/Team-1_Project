@@ -5,10 +5,10 @@ const rl = readline.createInterface({
     output: process.stdout
 });
 
-rl.question("Enter a number: ", (input) => {
-    const n: number = Number(input);
+rl.question("Enter a Number: ", (input: string) => {
+    const num = Number(input);
 
-    if (n % 2 === 0)
+    if (num % 2 === 0)
         console.log("Even");
     else
         console.log("Odd");

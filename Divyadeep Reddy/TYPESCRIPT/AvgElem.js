@@ -38,7 +38,7 @@ const rl = readline.createInterface({
     input: process.stdin,
     output: process.stdout
 });
-rl.question("Enter array elements: ", (input) => {
+rl.question("Enter Array Elements: ", (input) => {
     const arr = input.trim().split(/\s+/).map(Number);
     let sum = 0;
     for (const value of arr) {
